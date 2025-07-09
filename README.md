@@ -63,15 +63,11 @@ Familiaridade com Git, GitHub, GitLab, metodologias ágeis (Scrum, Kanban) e amb
 ##  Meu GitHub em movimento
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielKuiawa&theme=tokyonight" alt="trophies" />
+  <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=GabrielKuiawa&theme=tokyonight" alt="trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielKuiawa&theme=tokyo-night" alt="activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKuiawa&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img style="width:100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielKuiawa&theme=tokyo-night" alt="activity graph" />
 </p>
 
 ---
