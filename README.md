@@ -21,7 +21,7 @@ Familiaridade com Git, GitHub, GitLab, metodologias ágeis (Scrum, Kanban) e amb
 -  Estudando: Clean Architecture, testes automatizados e microsserviços
 -  Sempre aberto a colaborações, freelas ou contribuições open-source
 
----
+
 
 ##  Tecnologias que uso
 
@@ -58,7 +58,7 @@ Familiaridade com Git, GitHub, GitLab, metodologias ágeis (Scrum, Kanban) e amb
 ![Kanban](https://img.shields.io/badge/Kanban-%23007ACC.svg?style=for-the-badge)
 
 
----
+
 
 ##  Meu GitHub em movimento
 
@@ -70,13 +70,11 @@ Familiaridade com Git, GitHub, GitLab, metodologias ágeis (Scrum, Kanban) e amb
   <img style="width:100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielKuiawa&theme=tokyo-night" alt="activity graph" />
 </p>
 
----
 
 ##  Onde me encontrar
 
 - LinkedIn: [linkedin.com/in/gabrielkuiawa](https://linkedin.com/in/gabrielkuiawa)  
 - E-mail: gabrielkuiaw4@gmail.com  
 
----
 
 <h3 align="center">Obrigado por visitar! Volte sempre ✌️</h3>
