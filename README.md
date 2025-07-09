@@ -4,18 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Java+J%C3%BAnior;Sempre+aprendendo+coisas+novas!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielKuiawa&color=blue" alt="Profile Views" />
-  <a href="https://github.com/GabrielKuiawa">
-    <img src="https://img.shields.io/github/followers/GabrielKuiawa?label=Follow&style=social" />
-  </a>
-  <a href="https://linkedin.com/in/gabrielkuiawa">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
-  </a>
-</p>
-
-
----
 
 ##  Sobre mim
 
