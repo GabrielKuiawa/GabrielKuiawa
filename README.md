@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Gabriel Kuiawa </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Java+J%C3%BAnior;Apaixonado+por+backend+e+l%C3%B3gica;Sempre+aprendendo+coisas+novas!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Java+J%C3%BAnior;Sempre+aprendendo+coisas+novas!" alt="Typing SVG" />
 </p>
 
 <p align="center">
