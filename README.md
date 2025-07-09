@@ -75,7 +75,6 @@ Familiaridade com Git, GitHub, GitLab, metodologias ágeis (Scrum, Kanban) e amb
 ##  Onde me encontrar
 
 - LinkedIn: [linkedin.com/in/gabrielkuiawa](https://linkedin.com/in/gabrielkuiawa)  
-- GitHub: [github.com/GabrielKuiawa](https://github.com/GabrielKuiawa)  
 - E-mail: gabrielkuiaw4@gmail.com  
 
 ---
