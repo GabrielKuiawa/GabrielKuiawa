@@ -19,7 +19,6 @@ Familiaridade com Git, GitHub, GitLab, metodologias ágeis (Scrum, Kanban) e amb
 -  Formado/em formação em Sistemas para Internet na UTFPR
 -  Focado em backend, mas com bagagem full stack
 -  Estudando: Clean Architecture, testes automatizados e microsserviços
--  Sempre aberto a colaborações, freelas ou contribuições open-source
 
 
 
