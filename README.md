@@ -65,10 +65,6 @@ Familiaridade com Git, GitHub, GitLab, metodologias ágeis (Scrum, Kanban) e amb
   <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=GabrielKuiawa&theme=tokyonight" alt="trophies" />
 </p>
 
-<p align="center">
-  <img style="width:100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielKuiawa&theme=tokyo-night" alt="activity graph" />
-</p>
-
 
 ##  Onde me encontrar
 
